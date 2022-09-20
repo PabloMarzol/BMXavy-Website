@@ -767,20 +767,21 @@ GALLERY SECTION
 
 .photo_1[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
+    transition: .1s ease-in-out;
 } 
 .photo_2[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -789,9 +790,9 @@ GALLERY SECTION
 } 
 .photo_3[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -800,9 +801,9 @@ GALLERY SECTION
 } 
 .photo_4[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -811,9 +812,9 @@ GALLERY SECTION
 } 
 .photo_5[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -822,9 +823,9 @@ GALLERY SECTION
 } 
 .photo_6[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -833,178 +834,180 @@ GALLERY SECTION
 } 
 .photo_7[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 50%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_8[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 50%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_9[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 50%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_10[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 80%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_11[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 80%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_12[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 80%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_13[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 100%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_14[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 100%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_15[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 100%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_16[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 150%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_17[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 150%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_18[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 150%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_19[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 150%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_20[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 150%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_21[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 150%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
     object-fit: fill;
 } 
 .photo_22[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
-    position: absolute;
-    width: 90vw;
-    height: 70vh;
+    position: fixed;
+    width: clamp(5rem, 400px, 100vw);
+    height: clamp(3rem, 500px, 60vh);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 150%);
+    transform: translate(-50%, -50%);
     z-index: 1000000;
+    transition: .7s ease-in-out;
+    
     
 }
 
