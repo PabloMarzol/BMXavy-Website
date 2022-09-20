@@ -696,6 +696,7 @@ GALLERY SECTION
     background-position: center;
     background-repeat: no-repeat;
     background-blend-mode: multiply;
+
 }
 
 .gallery-title {
@@ -732,9 +733,11 @@ GALLERY SECTION
     margin: 0 auto;
     cursor: pointer;
     transition: .2s ease;
-    
 }
  
+
+
+
 .photo_1, 
 .photo_2, 
 .photo_3, 
@@ -767,8 +770,8 @@ GALLERY SECTION
 .photo_1[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -778,8 +781,8 @@ GALLERY SECTION
 .photo_2[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -789,8 +792,8 @@ GALLERY SECTION
 .photo_3[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -800,8 +803,8 @@ GALLERY SECTION
 .photo_4[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -811,8 +814,8 @@ GALLERY SECTION
 .photo_5[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -822,8 +825,8 @@ GALLERY SECTION
 .photo_6[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -833,8 +836,8 @@ GALLERY SECTION
 .photo_7[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 50%);
@@ -844,8 +847,8 @@ GALLERY SECTION
 .photo_8[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 50%);
@@ -855,8 +858,8 @@ GALLERY SECTION
 .photo_9[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 50%);
@@ -866,8 +869,8 @@ GALLERY SECTION
 .photo_10[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 80%);
@@ -877,8 +880,8 @@ GALLERY SECTION
 .photo_11[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 80%);
@@ -888,8 +891,8 @@ GALLERY SECTION
 .photo_12[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 80%);
@@ -899,8 +902,8 @@ GALLERY SECTION
 .photo_13[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 100%);
@@ -910,8 +913,8 @@ GALLERY SECTION
 .photo_14[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 100%);
@@ -921,8 +924,8 @@ GALLERY SECTION
 .photo_15[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 100%);
@@ -932,8 +935,8 @@ GALLERY SECTION
 .photo_16[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 150%);
@@ -943,8 +946,8 @@ GALLERY SECTION
 .photo_17[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 150%);
@@ -954,8 +957,8 @@ GALLERY SECTION
 .photo_18[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 150%);
@@ -965,8 +968,8 @@ GALLERY SECTION
 .photo_19[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 150%);
@@ -976,8 +979,8 @@ GALLERY SECTION
 .photo_20[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 150%);
@@ -987,8 +990,8 @@ GALLERY SECTION
 .photo_21[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 150%);
@@ -998,8 +1001,8 @@ GALLERY SECTION
 .photo_22[data-visible="true"] {
     border: 5px solid rgb(59, 51, 51);
     position: absolute;
-    width: 500px;
-    height: 600px;
+    width: 90vw;
+    height: 70vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, 150%);
@@ -1303,6 +1306,16 @@ LAST SECTION
     display: flex;
 }
 
+.creator {
+    display: flex;
+    text-align: center;
+
+}
+
+.pm_link {
+    text-decoration: none;
+    color: white;
+}
 /***************************************************************************************************  
 
 THANKS PAGE   
