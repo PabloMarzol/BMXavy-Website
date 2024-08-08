@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6">
   <diagram name="Page-1" id="wzCmmnvdqcrXQAJPHqvH">
-    <mxGraphModel dx="4549" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+    <mxGraphModel dx="4549" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F5FDFF" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
         <mxCell id="dv5BNFTT0S066JH7WybJ-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-6" target="dv5BNFTT0S066JH7WybJ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dv5BNFTT0S066JH7WybJ-6" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Legal and Regulatory Setup&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="dv5BNFTT0S066JH7WybJ-6" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Legal and Regulatory Setup&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="130" width="340" height="220" as="geometry" />
         </mxCell>
         <mxCell id="dv5BNFTT0S066JH7WybJ-14" value="&lt;h4 style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Apply for CIF &lt;font style=&quot;font-size: 26px;&quot;&gt;&amp;amp; &lt;/font&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;AMF License&lt;/font&gt;&lt;/font&gt;&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -39,17 +39,17 @@
         <mxCell id="dv5BNFTT0S066JH7WybJ-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-20" target="dv5BNFTT0S066JH7WybJ-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dv5BNFTT0S066JH7WybJ-20" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Technology Infrastructure&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="415" y="630" width="340" height="220" as="geometry" />
+        <mxCell id="dv5BNFTT0S066JH7WybJ-20" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Technology Infrastructure&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;gradientColor=#7ea6e0;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="650" width="340" height="220" as="geometry" />
         </mxCell>
         <mxCell id="dv5BNFTT0S066JH7WybJ-26" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Set up MT5 white Lable&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="665" width="250" height="150" as="geometry" />
+          <mxGeometry x="127.5" y="685" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dv5BNFTT0S066JH7WybJ-27" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Set up hosting and Server Infrastrucuture&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="940" width="250" height="150" as="geometry" />
+          <mxGeometry x="492.5" y="960" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dv5BNFTT0S066JH7WybJ-28" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Develop custom CRM system&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="665" width="250" height="150" as="geometry" />
+          <mxGeometry x="862.5" y="685" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dv5BNFTT0S066JH7WybJ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-46" target="dv5BNFTT0S066JH7WybJ-47">
           <mxGeometry relative="1" as="geometry">
@@ -62,17 +62,17 @@
         <mxCell id="dv5BNFTT0S066JH7WybJ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-46" target="dv5BNFTT0S066JH7WybJ-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dv5BNFTT0S066JH7WybJ-46" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Financial and Banking Relationships&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="630" width="340" height="220" as="geometry" />
+        <mxCell id="dv5BNFTT0S066JH7WybJ-46" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Financial and Banking Relationships&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;gradientColor=#7ea6e0;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="650" width="340" height="220" as="geometry" />
         </mxCell>
         <mxCell id="dv5BNFTT0S066JH7WybJ-47" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Establish bank relationships for segregated accounts&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1100" y="647.5" width="300" height="185" as="geometry" />
+          <mxGeometry x="-1120" y="685" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dv5BNFTT0S066JH7WybJ-48" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Integrate Payment Processors&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-655" y="930" width="250" height="150" as="geometry" />
+          <mxGeometry x="-705" y="950" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dv5BNFTT0S066JH7WybJ-49" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Setup Accounting Systems&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="664.75" width="250" height="150" as="geometry" />
+          <mxGeometry x="-310" y="684.75" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dv5BNFTT0S066JH7WybJ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-56" target="dv5BNFTT0S066JH7WybJ-57">
           <mxGeometry relative="1" as="geometry" />
@@ -128,7 +128,7 @@
         <mxCell id="dv5BNFTT0S066JH7WybJ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-70" target="dv5BNFTT0S066JH7WybJ-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dv5BNFTT0S066JH7WybJ-70" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Marketing and Client Acquisition&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="dv5BNFTT0S066JH7WybJ-70" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Marketing and Client Acquisition&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#1A1A1A;fillColor=#647687;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="2260" width="340" height="220" as="geometry" />
         </mxCell>
         <mxCell id="dv5BNFTT0S066JH7WybJ-71" value="Develop marketing strategy" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
@@ -151,7 +151,7 @@
         <mxCell id="dv5BNFTT0S066JH7WybJ-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-82" target="dv5BNFTT0S066JH7WybJ-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dv5BNFTT0S066JH7WybJ-82" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Customer Support Infrastructure&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="dv5BNFTT0S066JH7WybJ-82" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Customer Support Infrastructure&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#1A1A1A;fillColor=#647687;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="2260" width="340" height="220" as="geometry" />
         </mxCell>
         <mxCell id="dv5BNFTT0S066JH7WybJ-83" value="Setup Tiered support system" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
@@ -172,7 +172,7 @@
         <mxCell id="dv5BNFTT0S066JH7WybJ-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-88" target="dv5BNFTT0S066JH7WybJ-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dv5BNFTT0S066JH7WybJ-88" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Compliance and Reporting Systems&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="dv5BNFTT0S066JH7WybJ-88" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Compliance and Reporting Systems&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#1A1A1A;fillColor=#647687;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="-167.5" y="2880" width="340" height="220" as="geometry" />
         </mxCell>
         <mxCell id="dv5BNFTT0S066JH7WybJ-89" value="&lt;div style=&quot;font-size: 26px;&quot;&gt;Implement AML/CFT&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;procedures&lt;br style=&quot;font-size: 26px;&quot;&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
@@ -196,7 +196,7 @@
         <mxCell id="dv5BNFTT0S066JH7WybJ-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-97" target="dv5BNFTT0S066JH7WybJ-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dv5BNFTT0S066JH7WybJ-97" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Platform Customization &amp;amp; Branding&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="dv5BNFTT0S066JH7WybJ-97" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Platform Customization &amp;amp; Branding&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3A5431;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#6d8764;glass=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;gradientColor=#663300;gradientDirection=north;fillStyle=zigzag;" vertex="1" parent="1">
           <mxGeometry x="-160" y="3500" width="340" height="220" as="geometry" />
         </mxCell>
         <mxCell id="dv5BNFTT0S066JH7WybJ-98" value="Design custom UI/UX for MT5" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
