@@ -1,9 +1,233 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6">
   <diagram name="Page-1" id="wzCmmnvdqcrXQAJPHqvH">
-    <mxGraphModel>
+    <mxGraphModel dx="3583" dy="1364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dv5BNFTT0S066JH7WybJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-6" target="dv5BNFTT0S066JH7WybJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-6" target="dv5BNFTT0S066JH7WybJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-6" target="dv5BNFTT0S066JH7WybJ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-6" target="dv5BNFTT0S066JH7WybJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-6" value="&lt;b&gt;Legal and Regulatory Setup&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="60" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-14" value="&lt;div&gt;Apply for CIF &amp;amp; AMF License&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="227.5" width="125" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-16" value="&lt;div&gt;Obtain Permits and Registration&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-18" value="&lt;div&gt;Choose&amp;nbsp;&lt;/div&gt;&lt;div&gt;Jurisdiction&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="85" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-19" value="&lt;div&gt;Establish corporate structure&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="227.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-20" target="dv5BNFTT0S066JH7WybJ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-20" target="dv5BNFTT0S066JH7WybJ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-20" target="dv5BNFTT0S066JH7WybJ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-20" value="Technology Infrastructure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="368.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-26" value="Set up MT5 white Lable" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="368.5" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-27" value="Set up hosting and Server Infrastrucuture" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="515" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-28" value="Develop custom CRM system" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="370" width="140" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-46" target="dv5BNFTT0S066JH7WybJ-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-476" y="667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-46" target="dv5BNFTT0S066JH7WybJ-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-46" target="dv5BNFTT0S066JH7WybJ-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-46" value="Financial and Banking Relationships" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="363.5" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-47" value="Establish bank relationships for segregated accounts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="368.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-48" value="Integrate Payment Processors" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-885" y="515" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-49" value="Setup Accounting Systems" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="368.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-56" target="dv5BNFTT0S066JH7WybJ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-56" target="dv5BNFTT0S066JH7WybJ-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-56" target="dv5BNFTT0S066JH7WybJ-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-56" value="&lt;div&gt;Client Onboarding&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;KYC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-885" y="940" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-57" value="&lt;div&gt;Implement KYC&lt;/div&gt;&lt;div&gt;Process&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1075" y="945" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-58" value="&lt;div&gt;Integrate third-party&amp;nbsp;&lt;/div&gt;&lt;div&gt;KYC service&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="1083" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-59" value="Develop Client onboarding Workflow" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-695" y="945" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-63" target="dv5BNFTT0S066JH7WybJ-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-63" target="dv5BNFTT0S066JH7WybJ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-63" target="dv5BNFTT0S066JH7WybJ-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-63" value="Products and Services Setup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1420" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-64" value="Configure MT5 for offered instrumetns" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1425" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-65" value="Develop Educational content" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="1563" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-66" value="&lt;div&gt;Set up Market analysis services&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1425" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-70" target="dv5BNFTT0S066JH7WybJ-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-70" target="dv5BNFTT0S066JH7WybJ-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-70" target="dv5BNFTT0S066JH7WybJ-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-70" target="dv5BNFTT0S066JH7WybJ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-70" value="&lt;b&gt;Marketing and Client Acquisition&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="1652" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-71" value="Develop marketing strategy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1662" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-72" value="Create content &amp;amp; Marketing material" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="1657" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-73" value="Set up affiliate and IB programs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1777" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-74" value="Launch advertising campaigns" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="1767" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-82" target="dv5BNFTT0S066JH7WybJ-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-82" target="dv5BNFTT0S066JH7WybJ-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-82" value="&lt;b&gt;Customer Support Infrastructure&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="1652" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-83" value="Setup Tiered support system" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="1772" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-84" value="Implement CRM for support tracking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="1772" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-88" target="dv5BNFTT0S066JH7WybJ-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-88" target="dv5BNFTT0S066JH7WybJ-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-88" target="dv5BNFTT0S066JH7WybJ-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-88" target="dv5BNFTT0S066JH7WybJ-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-88" value="&lt;b&gt;Compliance and Reporting Systems&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="2570" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-89" value="&lt;div&gt;Implement AML/CFT&lt;/div&gt;&lt;div&gt;procedures&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="2580" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-90" value="Setup&amp;nbsp; transaction monitoring" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="2575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-91" value="Establish internal audit processes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="2685" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-92" value="Implement regulatory reporting systems" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="2680" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-97" target="dv5BNFTT0S066JH7WybJ-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-97" target="dv5BNFTT0S066JH7WybJ-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-97" target="dv5BNFTT0S066JH7WybJ-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-97" value="&lt;b&gt;Platform Customization &amp;amp; Branding&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="2000" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-98" value="Design custom UI/UX for MT5" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="2005" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-99" value="Implement BrokerEdge branding" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="2143" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-100" value="Develop &amp;amp; Integrate additional features" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2005" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-113" target="dv5BNFTT0S066JH7WybJ-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-113" target="dv5BNFTT0S066JH7WybJ-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dv5BNFTT0S066JH7WybJ-113" target="dv5BNFTT0S066JH7WybJ-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-113" value="&lt;div&gt;Risk Management&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Liquidity&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="907" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-114" value="Implement Risk Management Tools" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="912" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-115" value="Establish Relationships with LPs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="1050" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dv5BNFTT0S066JH7WybJ-116" value="Setup Hedging Strategies" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="912" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
